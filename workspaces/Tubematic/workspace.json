@@ -38,7 +38,7 @@
       {
         "key": "tubematic_version",
         "label": "Tubematic version",
-        "value": "2.1.1",
+        "value": "2.2.0",
         "allow_saving": false,
         "placeholder": null,
         "required": true,
@@ -46,8 +46,12 @@
         "input_type": "select",
         "options": [
           {
+            "value": "2.2.0",
+            "label": "2.2.0 (latest)"
+          },
+          {
             "value": "2.1.1",
-            "label": "2.1.1 (latest)"
+            "label": "2.1.1"
           },
           {
             "value": "2.1.0",
